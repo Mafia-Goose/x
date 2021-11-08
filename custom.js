@@ -55,7 +55,7 @@ window.snake.more_menu = function(e) {
 
   // blursed
   img = new Image;
-  img.src = 'https://ibb.co/0t9XpdH';
+  img.src = 'https://i.postimg.cc/V66TxG6X/newnew.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -89,7 +89,7 @@ window.snake.more_menu = function(e) {
 
   // desert bus
   img = new Image;
-  img.src = 'https://ibb.co/r4Kzprx';
+  img.src = 'https://i.postimg.cc/g2FCxHSP/adad.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
@@ -137,7 +137,7 @@ window.snake.more_menu = function(e) {
 
   // ultradeath
   img = new Image;
-  img.src = 'https://ibb.co/Qk8yQsB';
+  img.src = 'https://i.postimg.cc/05Hxym18/apple.png';
   img.width = 47;
   img.height = 47;
   img.class = 'DqMRee SsAred';
